@@ -67,7 +67,7 @@ I built an interactive dashboard to:
 
 ## 📈 Dashboard Preview
 
-![Dashboard](images/e-commerce-marketing-analysis.PNG)
+![Dashboard](images/ecommerce-dashboard.png)
 
 ---
 
@@ -75,8 +75,7 @@ I built an interactive dashboard to:
 
 - Power BI (Data Visualization)
 - Excel / CSV (Data Source)
-- (Optional) Python – Pandas for data cleaning
-
+  
 ---
 
 ## 📂 Dataset
