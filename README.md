@@ -67,7 +67,7 @@ I built an interactive dashboard to:
 
 ## 📈 Dashboard Preview
 
-![Dashboard](images/https://github.com/Ayeshungjosephat/E-commerce-marketing-analysis/blob/main/e%20commerce%20marketing%20analysis.PNG)
+![Dashboard](images/e-commerce-marketing-analysis.PNG)
 
 ---
 
